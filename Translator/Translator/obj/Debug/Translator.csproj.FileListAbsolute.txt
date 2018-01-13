@@ -1,0 +1,10 @@
+E:\TUNK\C#\examples\Translator\Translator\bin\Debug\Translator.exe.config
+E:\TUNK\C#\examples\Translator\Translator\bin\Debug\Translator.exe
+E:\TUNK\C#\examples\Translator\Translator\bin\Debug\Translator.pdb
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.Form1.resources
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.exe
+E:\TUNK\C#\examples\Translator\Translator\obj\Debug\Translator.pdb
